@@ -33,7 +33,7 @@ Users should be able to:
 ![Screenshot of my solution](./screenshots/127.0.0.1_5501_%20(1).png)
 
 - Solution URL: [Solution-Testimonials-grid-section-main](https://github.com/LeyaDiaz/Solution-Testimonials-grid-section-main.git)
-- Live Site URL: [Add live site URL here](https://LeyaDiaz.github.io/Page-Solution-Testimonials-grid-section-main/)
+- Live Site URL: [Page-Solution-Testimonials-grid-section-main/](https://LeyaDiaz.github.io/Page-Solution-Testimonials-grid-section-main/)
 
 ## My process
 
