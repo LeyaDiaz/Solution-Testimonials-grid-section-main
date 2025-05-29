@@ -1,6 +1,3 @@
-¡Por supuesto! Aquí tienes una versión personalizada de tu README para Frontend Mentor, resaltando tu experiencia real con CSS Grid y tu entusiasmo por el reto:
-
----
 
 # Frontend Mentor - Testimonials grid section solution
 
